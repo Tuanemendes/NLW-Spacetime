@@ -59,6 +59,9 @@ module.exports = {
       blur: {
         full: '194px',
       },
+      fontSize: {
+        '5xl': '2.5rem',
+      },
     },
   },
   plugins: [],
